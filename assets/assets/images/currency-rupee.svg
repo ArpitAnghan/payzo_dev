@@ -1,0 +1,11 @@
+<svg width="15" height="16" viewBox="0 0 15 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="currency-rupee" clip-path="url(#clip0_1953_64384)">
+<path id="Vector" d="M11.25 3.625H4.375H6.25C6.91304 3.625 7.54893 3.88839 8.01777 4.35723C8.48661 4.82607 8.75 5.46196 8.75 6.125C8.75 6.78804 8.48661 7.42393 8.01777 7.89277C7.54893 8.36161 6.91304 8.625 6.25 8.625H4.375L8.125 12.375" stroke="#2D3791" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M4.375 6.125H11.25" stroke="#2D3791" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1953_64384">
+<rect width="15" height="15" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>
